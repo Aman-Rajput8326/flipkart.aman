@@ -1,0 +1,13 @@
+.Flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    border: 2px solid rgb(247, 240, 240);
+    background-color: var(--main-bg-color);
+    color: white;   
+    padding: 0px;
+    border-radius: 4px;
+    cursor: pointer;
+}
